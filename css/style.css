@@ -1,0 +1,9 @@
+:root {
+  --font-family: "Inter", sans-serif;
+  --second-family: "Headland One", sans-serif;
+  --third-family: "Hammersmith One", sans-serif;
+}
+body {
+  font-family: var(--font-family);
+  background-color: rgb(255, 255, 255);
+}
