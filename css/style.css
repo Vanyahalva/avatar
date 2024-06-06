@@ -7,3 +7,20 @@ body {
   font-family: var(--font-family);
   background-color: rgb(255, 255, 255);
 }
+.flax{
+  display: flex;
+}
+.section{
+  padding-top: 200px;
+  background-color: #2F303A;
+  text-align:center;
+  padding-bottom: 200px;
+}
+.header-nav-list{
+  display: flex;
+  gap: 50px;
+}
+.section{
+  padding-top: 20px;   
+    padding-bottom: 200px;
+}
