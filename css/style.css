@@ -36,7 +36,7 @@ ul {
       rgba(43, 74, 97, 0.87),
       rgba(43, 74, 97, 0.87)
     ),
-    url("../image/fon.svg");
+    url("../image/image/Rectangle\ 20.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -84,14 +84,17 @@ ul {
   align-items: center;
 }
 .hero {
-  max-width: 1600px;
+  background-color: gray;
+  width: 1440px;
+  height: 750px;  
   margin-right: auto;
   margin-left: auto;
-  padding-top: 179px;
-  padding-bottom: 179px;
-  background-image: url("../image/fon-1.svg");
+  background-image: url("../image/image/Group\ 48\ 1.png");
   background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
+  padding-top: 180px;
+  padding-bottom: 180px;
 }
 .hero-content {
   font-family: var(--font-family);
@@ -126,7 +129,7 @@ ul {
   text-align: center;
   align-items: center;
   padding-bottom: 75px;
-  background-image: url("../image/fon-2.svg");
+  background-image: url("../image/image/Rectangle\ 10.png");
   background-repeat: no-repeat;
   background-size: cover;
   height: 741px;
@@ -170,7 +173,7 @@ ul {
   text-align: center;
   padding-top: 58px;
   padding-bottom: 58px;
-  background-image: url("../image/fon-3.svg");
+  background-image: url("../image/image/Rectangle\ 20.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-size: cover;
@@ -197,15 +200,15 @@ ul {
   text-align: center;
 }
 .teaching-list-child:nth-child(3n + 1) > .teaching-content:first-child::after {
-  background-image: url("../image/spis1.svg");
+  background-image: url("../image/image/Rectangle\ 42.png");
 }
 
 .teaching-list-child:nth-child(3n + 2) > .teaching-content:first-child::after {
-  background-image: url("../image/bird-spis.svg");
+  background-image: url("../image/image/Rectangle\ 88.png");
 }
 
 .teaching-list-child:nth-child(3n) > .teaching-content:first-child::after {
-  background-image: url("../image/spis2.svg");
+  background-image: url("../image/image/Rectangle\ 96@2x.png");
 }
 .teaching-content:first-child::after {
   background-repeat: no-repeat;
@@ -234,7 +237,7 @@ ul {
       rgba(43, 74, 97, 0.87),
       rgba(43, 74, 97, 0.87)
     ),
-    url("../image/fon.svg");
+    url("../image/image/Rectangle\ 142.png");
 }
 .footer-list-child:first-child{
   margin-bottom:16px ;
