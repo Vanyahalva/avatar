@@ -36,7 +36,7 @@ ul {
       rgba(43, 74, 97, 0.87),
       rgba(43, 74, 97, 0.87)
     ),
-    url("../image/image/Rectangle\ 20.png");
+    url("../image/image/hedbeg.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -204,11 +204,11 @@ ul {
 }
 
 .teaching-list-child:nth-child(3n + 2) > .teaching-content:first-child::after {
-  background-image: url("../image/image/Rectangle\ 88.png");
+  background-image: url("../image/image/Rectangle\ 99.png");
 }
 
 .teaching-list-child:nth-child(3n) > .teaching-content:first-child::after {
-  background-image: url("../image/image/Rectangle\ 96@2x.png");
+  background-image: url("../image/image/Rectangle\ 96.png");
 }
 .teaching-content:first-child::after {
   background-repeat: no-repeat;
@@ -237,7 +237,7 @@ ul {
       rgba(43, 74, 97, 0.87),
       rgba(43, 74, 97, 0.87)
     ),
-    url("../image/image/Rectangle\ 142.png");
+    url("../image/image/footbeg.png");
 }
 .footer-list-child:first-child{
   margin-bottom:16px ;
@@ -288,4 +288,18 @@ ul {
   padding-right: 31px;
   padding-left: 30px;
   text-align: center;
+}
+.Line{
+  height: 153px;
+  padding-top: 30px;
+}
+.logo-footer{
+  height: 183px;
+  width: 70px;
+  
+}
+.strih{
+  height: 1px;
+  width: 269px;
+  margin-top:13px;
 }
