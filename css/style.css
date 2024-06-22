@@ -9,6 +9,7 @@
   outline: 2px dashed red;
   margin: 0 auto;
 }
+
 h1,
 h2,
 h3,
@@ -56,7 +57,7 @@ ul {
 }
 .header-logo {
   margin-left: auto;
-  margin-right: 180px;
+  margin-right: 100px;
 }
 .header-list-child:nth-child(3) {
   margin-right: 212px;
@@ -302,7 +303,7 @@ ul {
 }
   
 .strih{
-  height: 1px;
+  height: 1.5px;
   width: 269px;
   margin-top:13px;
 }
